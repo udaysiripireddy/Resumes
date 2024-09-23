@@ -12,6 +12,13 @@ import Resume10 from './Temps/Resume10'
 import Resume11 from './Temps/Resume11'
 import Resume12 from './Temps/Resume12'
 import Resume13 from './Temps/Resume13'
+import Resume14 from './Temps/Resume14'
+import Resume15 from './Temps/Resume15'
+import Resume16 from './Temps/Resume16'
+import Resume17 from './Temps/Resume17'
+import Resume18 from './Temps/Resume18'
+import Resume19 from './Temps/Resume19'
+import Resume20 from './Temps/Resume20'
 function App() {
   
 
