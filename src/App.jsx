@@ -35,12 +35,16 @@ import Resume33 from './Temps/Resume33'
 import Resume34 from './Temps/Resume34'
 import Resume35 from './Temps/Resume35'
 import Resume36 from './Temps/Resume36'
+import Resume37 from './Temps/Resume37'
+import Resume38 from './Temps/Resume38'
+import Resume39 from './Temps/Resume39'
+import Resume40 from './Temps/Resume40'
 function App() {
   
 
   return (
     <>
-      <Resume36/> 
+      <Resume40/> 
     </>
   )
 }
